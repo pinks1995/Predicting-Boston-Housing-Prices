@@ -4,13 +4,13 @@ This Project aims at predicting the housing prices in Boston using Machine Learn
 # Install 
 This project requires Pyton and the following python libraries to be installed
 
-**Numpy
+*Numpy
 
-**Pandas
+*Pandas
 
-**Scikit Learn
+*Scikit Learn
 
-**matplotlib
+*matplotlib
 
  You must also acquaint yourself with how  Jupiter Notebook work.
 
